@@ -1,14 +1,7 @@
-# From VN
+# Huy1234TH (khuonghoanghuy / ThatPeople)
+I like Haxe, I like to build Haxe Game, I like to making a FNF Engine!
+- [Check out My Channel!, is cool!](https://www.youtube.com/channel/UCHLN1cnuBhRvPBgrhARqp2A)
 
-# 15 Year Old
-
-# [Check out My Channel!](https://www.youtube.com/channel/UCHLN1cnuBhRvPBgrhARqp2A)
-
-# The thing i want to do: 
-### - Make a Virtual Qemu App - In Progress - Use Python Code! (That never done!)
-### - Make a Notepad App (That never done!)
-
-# My Stats:
+# Some Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuonghoanghuy)](https://github.com/khuonghoanghuy/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khuonghoanghuy)
-
-# 😃
