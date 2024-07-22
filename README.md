@@ -6,5 +6,5 @@ I like Haxe, I like to build Haxe Game, I like to making a FNF Engine!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khuonghoanghuy)
 
 # Social:
-[Youtube](https://www.youtube.com/@Huy1234TH)
-Discord: (huy1234th / Nostalic)
+- [Youtube](https://www.youtube.com/@Huy1234TH)
+- Discord: (huy1234th / Nostalic)
