@@ -7,4 +7,4 @@ I like Haxe, I like to build Haxe Game, I like to making a FNF Engine!
 
 # Social:
 - [Youtube](https://www.youtube.com/@Huy1234TH)
-- Discord: (huy1234th / Nostalic)
+- Discord: (nostalic)
