@@ -1,2 +1,9 @@
+# Huy1234TH (AKA: khuonghoanghuy/ThatPeople)
+Im working stuff and stuff
+
+# My Language i know:
+- Haxe (Flixel Library)
+- Python (Currently Learning)
+
 # Check my Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khuonghoanghuy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuonghoanghuy&hide_progress=false)
