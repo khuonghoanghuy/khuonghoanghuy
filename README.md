@@ -8,3 +8,7 @@ Im working stuff and stuff
 # Check my Stats
 ## Top Langs Thing:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuonghoanghuy&hide_progress=false)
+
+## WakaTime Thing:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
