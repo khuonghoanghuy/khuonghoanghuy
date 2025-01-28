@@ -13,13 +13,11 @@ Im working stuff and stuff
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 720.6 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,5 +82,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 10:30:01 UTC
+ Last Updated on 28/01/2025 10:31:09 UTC
 <!--END_SECTION:waka-->
