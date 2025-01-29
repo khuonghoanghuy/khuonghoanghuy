@@ -11,7 +11,7 @@ Im working stuff and stuff
 
 ## WakaTime Thing:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-203-blue)
 
@@ -84,5 +84,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 16:27:14 UTC
+ Last Updated on 29/01/2025 17:18:48 UTC
 <!--END_SECTION:waka-->
