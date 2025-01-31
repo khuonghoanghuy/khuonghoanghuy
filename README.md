@@ -9,7 +9,7 @@ Im working stuff and stuff
 ## Top Langs Thing:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuonghoanghuy&hide_progress=false)
 
-## WakaTime Thing:
+## WakaTime Thing: (May be wrong since i set Github Action always do when passed 1 hours)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2058%20mins-blue)
 
