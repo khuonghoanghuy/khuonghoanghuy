@@ -19,6 +19,8 @@ Im working stuff and stuff
 
 > 📦 720.7 kB Used in GitHub's Storage 
  > 
+> 🏆 64 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -82,5 +84,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 18:27:49 UTC
+ Last Updated on 31/01/2025 19:16:40 UTC
 <!--END_SECTION:waka-->
