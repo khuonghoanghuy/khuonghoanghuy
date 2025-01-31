@@ -11,15 +11,13 @@ Im working stuff and stuff
 
 ## WakaTime Thing: (May be wrong since i set Github Action always do when passed 1 hours)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 720.7 kB Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,18 +52,18 @@ Sunday                   94 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Haxe                     3 hrs 39 mins       █████████████████░░░░░░░░   68.89 % 
-Other                    1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Haxe                     5 hrs 12 mins       ███████████████████░░░░░░   74.49 % 
+Other                    1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        ███████████████████░░░░░░   77.90 % 
-Discord                  1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+VS Code                  5 hrs 48 mins       █████████████████████░░░░   83.19 % 
+Discord                  1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 
 💻 Operating System: 
-Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Haxe** 
@@ -84,5 +82,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 17:17:55 UTC
+ Last Updated on 31/01/2025 18:27:49 UTC
 <!--END_SECTION:waka-->
