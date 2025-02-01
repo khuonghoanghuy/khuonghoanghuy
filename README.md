@@ -11,13 +11,15 @@ Im working stuff and stuff
 
 ## WakaTime Thing: (May be wrong since i set Github Action always do when passed 1 hours)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 720.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 67 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,5 +84,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 14:16:55 UTC
+ Last Updated on 01/02/2025 15:21:45 UTC
 <!--END_SECTION:waka-->
