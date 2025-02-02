@@ -14,7 +14,7 @@ Im student grade `11th`
 
 ## WakaTime Thing: (May be wrong since i set Github Action always do when passed 1 hours)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
 
@@ -88,5 +88,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 16:23:22 UTC
+ Last Updated on 02/02/2025 17:17:36 UTC
 <!--END_SECTION:waka-->
