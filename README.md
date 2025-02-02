@@ -2,8 +2,9 @@
 Im working stuff and stuff
 
 # My Language i know:
-- Haxe (Flixel Library)
-- Python (Currently on Learning)
+- Haxe ([Flixel](http://haxeflixel.com/) Library)
+- Python (Currently on Learning) (Use [Pygame](https://www.pygame.org/news))
+- C# (Currently on Learning) (Use [MonoGame](https://monogame.net/))
 
 # Check my Stats
 ## Top Langs Thing:
