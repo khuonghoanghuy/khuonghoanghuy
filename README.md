@@ -22,8 +22,6 @@ Im student grade `11th`
 
 > 📦 760.3 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -88,5 +86,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 07:21:14 UTC
+ Last Updated on 03/02/2025 08:27:45 UTC
 <!--END_SECTION:waka-->
