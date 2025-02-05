@@ -16,7 +16,7 @@ Im student grade `11th`
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,5 +89,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khuonghoanghuy/khuonghoanghuy/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 12:41:19 UTC
+ Last Updated on 05/02/2025 13:26:02 UTC
 <!--END_SECTION:waka-->
