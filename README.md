@@ -3,7 +3,7 @@ Im working stuff and stuff
 
 Im student grade `11th`
 
-# My Language i know:
+# The Language i know:
 - Haxe (Know Some Stuff) (Use [HaxeFlixel](http://haxeflixel.com/))
 - Python (Currently on Learning) (Use [Pygame](https://www.pygame.org/news))
 - C# (Currently on Learning) (Use [MonoGame](https://monogame.net/))
