@@ -1,9 +1,7 @@
 # Huy1234TH (AKA: khuonghoanghuy/ThatPeople)
 Im working stuff and stuff
 
-Im student grade `11th`
-
-# The Language i know: (trying to learn new languag if i actually not lazy)
+# The Language i know
 - Haxe (Know Some Stuff) (Use [HaxeFlixel](http://haxeflixel.com/))
 
 # Check my Stats
